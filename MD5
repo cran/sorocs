@@ -1,0 +1,12 @@
+da451224dcddcb744030e12337f6d766 *DESCRIPTION
+461f90394e73258eec053f12ebfb5150 *NAMESPACE
+b861bf47293dd34c29196eca5f8a62df *R/asrm.r
+3b0d8ed015555e6a1d80e375baa0efe3 *R/sorocs.R
+9b093d0ae314ca295c6890c9ae65caf3 *build/vignette.rds
+d49161f69101a065e6977e058dfa93d0 *data/asrm.rda
+0114339612007bf0ebdca3044bb7fd3d *inst/doc/sorocs-vignette.R
+228e1d70270d062a604f9d5efb5ba668 *inst/doc/sorocs-vignette.Rmd
+4cbbe1bf6b012e91bf654943f438117f *inst/doc/sorocs-vignette.html
+14a33e4be2bc9f17d25dfb5274d04561 *man/asrm.Rd
+c65f5d9c17140f00efbe6b0808ff72ee *man/sorocs.Rd
+228e1d70270d062a604f9d5efb5ba668 *vignettes/sorocs-vignette.Rmd
